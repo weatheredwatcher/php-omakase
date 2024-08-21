@@ -12,6 +12,8 @@ ______ |  |__ ______     ____   _____ _____  |  | _______    ______ ____
 
 The main crux is installation on Ubuntu 23 either a fresh install of Linux or WSL.
 
+This is also a terminal only process.  We will not be initially installing any GUI applications at all.
+
 This will install the following software/versions
 
 
