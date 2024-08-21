@@ -19,14 +19,15 @@ This will install the following software/versions
 
 ### Software
 
-* Apache
 * PHP
-* MariaDB
 * Git
 * Docker
 * Composer
 * Neovim
 * ZSH
 * TMUX
+
+For this iteration, the expectation is that we will be doing all the development work in Docker Containers...so no web server or database
+is installed.  We are also only installing the CLI for php.
 
 Will also include my vim setup for PHP, my TMUX setup, and Oh-My-ZSH
